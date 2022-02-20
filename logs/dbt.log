@@ -1,0 +1,8 @@
+
+
+============================== 2022-02-20 23:03:47.494945 | 51f7216b-8623-474e-adb0-d19da35cd349 ==============================
+23:03:47.494945 [info ] [MainThread]: Running with dbt=1.0.1
+23:03:47.496113 [debug] [MainThread]: running dbt with arguments Namespace(cls=<class 'dbt.task.init.InitTask'>, debug=None, defer=None, event_buffer_size=None, fail_fast=None, log_cache_events=False, log_format=None, partial_parse=None, printer_width=None, profile=None, profiles_dir='/home/rabbani/.dbt', project_dir=None, project_name=None, record_timing_info=None, rpc_method=None, send_anonymous_usage_stats=None, single_threaded=False, skip_profile_setup=False, state=None, static_parser=None, target=None, use_colors=None, use_experimental_parser=None, vars='{}', version_check=None, warn_error=None, which='init', write_json=None)
+23:03:47.496524 [debug] [MainThread]: Tracking: tracking
+23:03:47.513484 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f208feb1d60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f208feb1c40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f208feb1b50>]}
+23:03:47.514443 [info ] [MainThread]: Creating dbt configuration folder at /home/rabbani/.dbt
